@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+string app_name
+string bluetooth_enable_dialog_label
+string bluetooth_enable_dialog_message
+string dialog_label_allow
+string dialog_label_cancel
+string dialog_label_enable
+string dialog_label_setting
+string measuring_blood_glucose
+string measuring_blood_pressure
+string permission_label
+string permission_message
+string permission_setting_message

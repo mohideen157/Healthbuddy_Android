@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Ferfalk:SimpleSearchView:0.1.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/7796382a768b4dcafe44b11b901eaa2a/jetified-SimpleSearchView-0.1.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/7796382a768b4dcafe44b11b901eaa2a/jetified-SimpleSearchView-0.1.3/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/7796382a768b4dcafe44b11b901eaa2a/jetified-SimpleSearchView-0.1.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/modules-2/files-2.1/com.github.Ferfalk/SimpleSearchView/0.1.3/f37ee39dbc248ec2ad25746ec7ef503696b76f25/SimpleSearchView-0.1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/modules-2/files-2.1/com.github.Ferfalk/SimpleSearchView/0.1.3/262cd4227e2362f29a2d4d82a0bdc5b1fbad0900/SimpleSearchView-0.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

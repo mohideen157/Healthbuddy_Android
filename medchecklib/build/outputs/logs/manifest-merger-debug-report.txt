@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:2:5-34
+		INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+		INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+		ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:1:1-13:12
+		INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+		ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:1:1-13:12
+		INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:10:5-12:19
+service#com.getmedcheck.lib.services.MedCheckBluetoothLeService
+ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:11:9-72
+	android:name
+		ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml:11:18-69
+uses-sdk
+INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+		ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+		INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+		ADDED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml
+		INJECTED from E:\cover2protect-Android\medchecklib\src\main\AndroidManifest.xml

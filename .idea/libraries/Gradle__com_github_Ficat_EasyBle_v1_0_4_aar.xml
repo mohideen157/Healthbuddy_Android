@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Ficat:EasyBle:v1.0.4@aar">
+    <CLASSES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/e0cc3e260f110f08f6559adc7648b117/jetified-EasyBle-v1.0.4/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/e0cc3e260f110f08f6559adc7648b117/jetified-EasyBle-v1.0.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/modules-2/files-2.1/com.github.Ficat/EasyBle/v1.0.4/b5a251d9c9cab83578813089a46dc39d465709e7/EasyBle-v1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

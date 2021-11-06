@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1","enabled":true,"outputFile":"app-Dev-debug.apk","fullName":"DevDebug","baseName":"Dev-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"indg.com.cover2protect","split":"","minSdkVersion":"19"}}]

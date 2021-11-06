@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_medium_alcohol.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\fragment_medium_alcohol.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\nutritiontype_rv_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\nutritiontype_rv_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_excercise.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\fragment_excercise.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_scan_device.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\fragment_scan_device.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_article_detail.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_article_detail.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_registration__otp.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_registration__otp.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\device_list_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\device_list_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\excercise_rv_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\excercise_rv_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_history2.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_history2.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_profile_id.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\fragment_profile_id.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\articlerv_pagination_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\articlerv_pagination_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\pedometer_weekly_rv.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\pedometer_weekly_rv.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\arrhythmia_rv_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\arrhythmia_rv_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_new_password.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_new_password.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_account.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_reset_password.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_result.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_upload_file.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_upload_file.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_hhi.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_hhi.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_small_alcohol.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\fragment_small_alcohol.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_data_detail.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_data_detail.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\health_report_rv_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\health_report_rv_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\item_layout_nutrition.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\item_layout_nutrition.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_forgot_pass.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_forgot_pass.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_health_report.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_health_report.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_heart_ailment.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_heart_ailment.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\afib_rv_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\afib_rv_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\medication_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\medication_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_device.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\fragment_device.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\nutrion_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\nutrion_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\device_viewconnect.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\device_viewconnect.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\number_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\number_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\articlerv_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\articlerv_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_pedometer.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_pedometer.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_height_view.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\fragment_height_view.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_large_alcohol.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\fragment_large_alcohol.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\tabacco_layout.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\tabacco_layout.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "E:\\cover2protect-Android\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_article_pagination.xml",
+        "source": "E:\\cover2protect-Android\\app\\src\\main\\res\\layout\\activity_article_pagination.xml"
+    }
+]

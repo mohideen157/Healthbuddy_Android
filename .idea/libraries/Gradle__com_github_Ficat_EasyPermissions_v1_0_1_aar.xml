@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Ficat:EasyPermissions:v1.0.1@aar">
+    <CLASSES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/40b6ef86dfd3c4831cecbc8b106d81e1/jetified-EasyPermissions-v1.0.1/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/40b6ef86dfd3c4831cecbc8b106d81e1/jetified-EasyPermissions-v1.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

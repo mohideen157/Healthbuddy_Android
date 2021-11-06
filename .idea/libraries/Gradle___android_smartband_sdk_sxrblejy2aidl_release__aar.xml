@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :android-smartband-sdk-sxrblejy2aidl-release:@aar">
+    <CLASSES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/a1e2e13eed03a7ea4f43ea884bbd2bd8/android-smartband-sdk-sxrblejy2aidl-release/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/a1e2e13eed03a7ea4f43ea884bbd2bd8/android-smartband-sdk-sxrblejy2aidl-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

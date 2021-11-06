@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.appxcore:SparkLineLayout:-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/8bd1725115e44d70e0c16a6211821dcb/SparkLineLayout--SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/8bd1725115e44d70e0c16a6211821dcb/SparkLineLayout--SNAPSHOT/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/modules-2/files-2.1/com.github.appxcore/SparkLineLayout/-SNAPSHOT/885509214b64aad7499cc693def932a9d6995cf8/SparkLineLayout--SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+#Sat Dec 28 19:52:21 IST 2019
+path.3=classes3.dex
+path.2=classes2.dex
+path.1=classes.dex
+renamed.4=classes5.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+base.4=E\:\\cover2protect-Android\\app\\build\\intermediates\\dex\\DevDebug\\mergeLibDexDevDebug\\out\\classes_0.dex
+renamed.0=classes.dex
+base.3=E\:\\cover2protect-Android\\app\\build\\intermediates\\dex\\DevDebug\\mergeExtDexDevDebug\\out\\classes3.dex
+base.2=E\:\\cover2protect-Android\\app\\build\\intermediates\\dex\\DevDebug\\mergeExtDexDevDebug\\out\\classes2.dex
+base.1=E\:\\cover2protect-Android\\app\\build\\intermediates\\dex\\DevDebug\\mergeProjectDexDevDebug\\out\\classes.dex
+base.0=E\:\\cover2protect-Android\\app\\build\\intermediates\\dex\\DevDebug\\mergeExtDexDevDebug\\out\\classes.dex
+path.4=classes_0.dex

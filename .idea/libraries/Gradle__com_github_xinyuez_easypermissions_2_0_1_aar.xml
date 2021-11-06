@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.xinyuez:easypermissions:2.0.1@aar">
+    <CLASSES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/0f7e4d528bbc2a00071c353e02c88c71/easypermissions-2.0.1/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/0f7e4d528bbc2a00071c353e02c88c71/easypermissions-2.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/modules-2/files-2.1/com.github.xinyuez/easypermissions/2.0.1/5e7fb2dd49d798cedd85dbe55fe257f0e8d5cf71/easypermissions-2.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/modules-2/files-2.1/com.github.xinyuez/easypermissions/2.0.1/f6dc5a340ce7950831c0825a66b9bda8089de2f4/easypermissions-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

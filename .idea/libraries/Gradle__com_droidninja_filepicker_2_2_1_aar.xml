@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.droidninja:filepicker:2.2.1@aar">
+    <CLASSES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/24c74d827295dd5cb2011814f5b41fff/filepicker-2.2.1/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/gradle-5.4.1/caches/transforms-2/files-2.1/24c74d827295dd5cb2011814f5b41fff/filepicker-2.2.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/modules-2/files-2.1/com.droidninja/filepicker/2.2.1/c44f05bfaa20eb57b68dd0dedc955e50d76af1d3/filepicker-2.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Gradle/gradle-5.4.1/caches/modules-2/files-2.1/com.droidninja/filepicker/2.2.1/a5fc411709a087ebdebbf08af21574076f5ea9a6/filepicker-2.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
